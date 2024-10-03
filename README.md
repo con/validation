@@ -23,16 +23,19 @@ This repository is attempt to converge across wider range of standards/tools.
 
 ## A list of standards/formats used in neuroscience and needed validation
 
-**TODO**: add references
+**TODO**: add references and generally extend with relevant issues and pointers
 
 - BIDS
+  - [bids-validator:1878 "Provide means (result records schema) for external validators (e.g. NWB)"](https://github.com/bids-standard/bids-validator/issues/1878)
 - HDF5
 - HED
 - JSON
 - NGFF/OME-Zarr
 - NWB
+  - nwb-inspector 
 - YAML
 - Zarr
+  - related: [ZEP004: Conventions comment on adding schema to validate](https://github.com/zarr-developers/zarr-specs/pull/262/files#r1540042136) 
 
 and could also be seen on "mindmap" for BIDS
 
