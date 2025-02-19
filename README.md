@@ -32,7 +32,8 @@ This repository is attempt to converge across wider range of standards/tools.
 - JSON
 - NGFF/OME-Zarr
 - NWB
-  - nwb-inspector 
+  - nwb-inspector
+- [Pydantic](https://docs.pydantic.dev/)
 - YAML
 - Zarr
   - related: [ZEP004: Conventions comment on adding schema to validate](https://github.com/zarr-developers/zarr-specs/pull/262/files#r1540042136) 
