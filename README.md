@@ -29,7 +29,7 @@ This repository is attempt to converge across wider range of standards/tools.
   - [bids-validator:1878 "Provide means (result records schema) for external validators (e.g. NWB)"](https://github.com/bids-standard/bids-validator/issues/1878)
 - HDF5
 - HED
-- JSON
+- [JSON Schema](https://json-schema.org/)
 - NGFF/OME-Zarr
 - NWB
   - nwb-inspector 
