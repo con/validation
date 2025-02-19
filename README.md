@@ -15,7 +15,7 @@ In `dandi-cli` we also use bidschematools for rudimentary validation of BIDS pat
 Many if not most validators have means to output results of validation in machine readable form, e.g. JSON.
 
 Ideally we should gain some common format/API/data-structure to define outputs of a validator so we could reuse it.
-In `dandi-cli` we already tried to accomplis that in https://github.com/dandi/dandi-cli/blob/master/dandi/validate_types.py .
+In `dandi-cli` we already tried to accomplish that in https://github.com/dandi/dandi-cli/blob/master/dandi/validate_types.py .
 
 This repository is attempt to converge across wider range of standards/tools.
 
